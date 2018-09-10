@@ -24,7 +24,7 @@ export default (props: IndexPageProps) =>
         Link={Link} pathname={props.location.pathname} items={menuItems} inverted
       />
       <Container text>
-        <Header inverted as="h1">Astrokawiarnia - Starter kit</Header>
+        <Header inverted as="h1">Astrokawiarnia</Header>
       </Container>
     </Segment>
   </div>;
